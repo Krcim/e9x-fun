@@ -9,7 +9,7 @@
   icon: fa fa-cog
   link: ""
   list:
-    - name: 源码
-      url: "https://github.com/Krcim/e9x-fun"
+    - name: blog
+      url: "https://krcim-blog.hiyxin.top"
     - name: 导航数据
       url: "https://github.com/Krcim/e9x-fun/blob/main/data/webstack.yml"
